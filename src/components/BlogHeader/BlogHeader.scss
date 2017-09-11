@@ -1,0 +1,11 @@
+.blog-header {
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    .blog-header__logo > img {
+        flex: 1;
+    }
+    .blog-header__menu {
+        flex: 15;
+    }
+}
